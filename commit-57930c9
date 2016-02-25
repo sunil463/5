@@ -1,0 +1,22 @@
+From 57930c931c01a6bbd77067ca1b50f06a36b6ed22 Mon Sep 17 00:00:00 2001
+From: "sunil.tv" <sunil.tv@dreamorbit.com>
+Date: Thu, 25 Feb 2016 03:51:59 -0800
+Subject: Revert "9ih"
+
+This reverts commit 75318b6e6eb2d12bd60246fc76ca394dae952d0b.
+
+diff --git a/Git New folder.lnk b/Git New folder.lnk
+deleted file mode 100644
+index 66fa101..0000000
+Binary files a/Git New folder.lnk and /dev/null differ
+diff --git a/git/New Text Document.txt b/git/New Text Document.txt
+deleted file mode 100644
+index 399cdf9..0000000
+--- a/git/New Text Document.txt	
++++ /dev/null
+@@ -1 +0,0 @@
+-xfgb
+\ No newline at end of file
+diff --git a/git/ff b/git/ff
+deleted file mode 100644
+index e69de29..0000000
