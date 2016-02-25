@@ -1,0 +1,19 @@
+??Supervisor's Details
+Name :
+Designation:
+Mobile No:
+Email ID (Official)
+
+
+HR Manager's Details
+Name :
+Designation:
+Mobile No:
+Email ID (Official)
+
+
+One of ?y?our Colleague's Details
+Name :
+Designation:
+Mobile No:
+Email ID (Official)
