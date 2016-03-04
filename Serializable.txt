@@ -1,0 +1,6 @@
+public class Person 
+{
+public String name = "John";
+public String surname = "Doe";
+public int age = 20;
+}
