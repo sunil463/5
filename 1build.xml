@@ -1,6 +1,6 @@
 <Project name="test" default="compilation">
 <target name="compilation">
-<mkdir dir="classes"/>
+<mkdirdir="classes"/>
 <javac srcdir="src" destdir="classes"/>
 </target>
 <target name="create_jar" depends="compilation">
